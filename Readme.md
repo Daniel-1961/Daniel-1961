@@ -1,11 +1,36 @@
-## Hi, I’m Daniel 👋
+# Hi, I'm Daniel 👋
 
-I’m a third-year Information Science student at Addis Ababa University and a backend-focused full-stack developer.
-I enjoy building practical web applications using Node.js, Express, and React, and I’m actively looking to collaborate and work on real-world projects where I can contribute, learn, and grow as a developer.
+I'm a third-year Information Science student at Addis Ababa University, a passionate full-stack developer, and an aspiring machine learning and data science enthusiast. I enjoy tackling real-world problems with technology—whether building robust web applications or working on data-driven solutions.
 
+---
 
-🔗 Portfolio: https://personal-portfolio-tau-rouge.vercel.app/
+### 💻 Tech Stack
 
+- **Languages:** JavaScript, TypeScript, Python
+- **Backend:** Node.js, Express.js, Flask
+- **Frontend:** React.js, Tailwind CSS
+- **Database:** PostgreSQL, MongoDB, SQL
+- **Machine Learning/Data Science:** Python ML libraries (scikit-learn, pandas, NumPy, matplotlib, etc.)
+- **Tools:** Git, GitHub, Postman
 
-🔗 GitHub Projects: https://github.com/Daniel-1961
+---
 
+### 🚀 Projects & Portfolio
+
+- **[Personal Portfolio](https://personal-portfolio-tau-rouge.vercel.app/):** My development journey and featured work.
+- **[GitHub Projects](https://github.com/Daniel-1961):** My open-source contributions and repositories.
+- *(Add highlights for 2–3 projects below. Example:)*
+  - **ML Project Name:** Brief one-line description. [GitHub Link](#)
+  - **Web App Name:** Short description. [GitHub Link](#)
+
+---
+
+### 📫 Let's Connect!
+
+- **Portfolio:** [personal-portfolio-tau-rouge.vercel.app](https://personal-portfolio-tau-rouge.vercel.app/)
+- **Email:** _your.email@example.com_
+- **LinkedIn:** _your-linkedin-profile_ (optional)
+
+---
+
+_I'm open to collaborations, professional connections, and new opportunities in web development, machine learning, and data science!_
