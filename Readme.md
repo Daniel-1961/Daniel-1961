@@ -19,9 +19,6 @@ I'm a third-year Information Science student at Addis Ababa University, a passio
 
 - **[Personal Portfolio](https://personal-portfolio-tau-rouge.vercel.app/):** My development journey and featured work.
 - **[GitHub Projects](https://github.com/Daniel-1961):** My open-source contributions and repositories.
-- *(Add highlights for 2–3 projects below. Example:)*
-  - **ML Project Name:** Brief one-line description. [GitHub Link](#)
-  - **Web App Name:** Short description. [GitHub Link](#)
 
 ---
 
