@@ -28,8 +28,7 @@ I'm a third-year Information Science student at Addis Ababa University, a passio
 ### 📫 Let's Connect!
 
 - **Portfolio:** [personal-portfolio-tau-rouge.vercel.app](https://personal-portfolio-tau-rouge.vercel.app/)
-- **Email:** _your.email@example.com_
-- **LinkedIn:** _your-linkedin-profile_ (optional)
+- **Email:** _danieldata36@gmail.com_
 
 ---
 
