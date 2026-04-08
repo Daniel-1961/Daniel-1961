@@ -4,6 +4,7 @@ I'm  Information Science student at Addis Ababa University, a passionate full-st
 
 ---
 ### 💻 Tech Stack
+
 - **Languages:** JavaScript, TypeScript, Python
 - **Backend:** Node.js, Express.js, Flask
 - **Frontend:** React.js, Tailwind CSS
