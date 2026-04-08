@@ -3,9 +3,7 @@
 I'm  Information Science student at Addis Ababa University, a passionate full-stack developer, and an aspiring machine learning and data science enthusiast. I enjoy tackling real-world problems with technology—whether building robust web applications or working on data-driven solutions.
 
 ---
-
 ### 💻 Tech Stack
-
 - **Languages:** JavaScript, TypeScript, Python
 - **Backend:** Node.js, Express.js, Flask
 - **Frontend:** React.js, Tailwind CSS
